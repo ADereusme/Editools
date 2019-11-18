@@ -185,11 +185,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DERE1909\\source\\repos\\EditoolsUnity\\EditoolsUnity\\EditoolsUnity.csproj",
+      "projectUniqueName": "D:\\Dereusme_Alexandre\\PullGitHub\\Editools\\EditoolsUnity\\EditoolsUnity\\EditoolsUnity.csproj",
       "projectName": "EditoolsUnity",
-      "projectPath": "C:\\Users\\DERE1909\\source\\repos\\EditoolsUnity\\EditoolsUnity\\EditoolsUnity.csproj",
+      "projectPath": "D:\\Dereusme_Alexandre\\PullGitHub\\Editools\\EditoolsUnity\\EditoolsUnity\\EditoolsUnity.csproj",
       "packagesPath": "C:\\Users\\DERE1909\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DERE1909\\source\\repos\\EditoolsUnity\\EditoolsUnity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

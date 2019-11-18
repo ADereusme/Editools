@@ -8,7 +8,6 @@ namespace EditoolsUnity
 {
     public static class ButtonEdit
     {
-
         public static void Button(string _buttonTitle, Action _callBack, bool _showCondition = true)
         {
             if (!_showCondition) return;
