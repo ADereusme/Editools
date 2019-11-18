@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EditoolsUnity</name>
+    </assembly>
+    <members>
+        <member name="M:EditoolsUnity.ButtonEdit.ButtonConfirmation(System.String,System.Action,UnityEngine.Color,System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="_buttonTitle">button title</param>
+            <param name="_callBack">action callback</param>
+            <param name="_color">color text</param>
+            <param name="_title">title</param>
+            <param name="_message"></param>
+            <param name="_acceptButton"></param>
+            <param name="_cancelButton"></param>
+            <param name="_showCondition"></param>
+        </member>
+    </members>
+</doc>
